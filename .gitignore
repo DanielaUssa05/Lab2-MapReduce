@@ -1,0 +1,4 @@
+input/data_grande.csv
+input/demo_profesor.csv
+__pycache__/
+*.pyc

@@ -1,0 +1,5 @@
+
+services:
+  mapreduce:
+    build: .
+    container_name: average-by-category
